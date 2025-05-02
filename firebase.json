@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "orbital-signal-369106",
+          "appId": "1:831777599075:android:7c4bcce0053710270d1256",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "orbital-signal-369106",
+          "configurations": {
+            "android": "1:831777599075:android:7c4bcce0053710270d1256",
+            "ios": "1:831777599075:ios:1822f47918f5641b0d1256",
+            "macos": "1:831777599075:ios:1822f47918f5641b0d1256",
+            "web": "1:831777599075:web:adfb2b52abb46c340d1256",
+            "windows": "1:831777599075:web:98cba3883f67c4a80d1256"
+          }
+        }
+      }
+    }
+  }
+}

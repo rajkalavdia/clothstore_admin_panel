@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "831777599075",
+    "firebase_url": "https://orbital-signal-369106-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "orbital-signal-369106",
+    "storage_bucket": "orbital-signal-369106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831777599075:android:a04dd7a6377203d00d1256",
+        "android_client_info": {
+          "package_name": "com.example.clothstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831777599075-h3tjvca11nl46cbrg8813re7n2mmfmi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clothstore",
+            "certificate_hash": "6ded2c2f6eeed05e79a09be78e0113f6ef877d60"
+          }
+        },
+        {
+          "client_id": "831777599075-q7bdpcdnk4p57tc4vtpt83ihj1o5akd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64zvcOfOD-S8AfznjFm-5tlIhdDvBCrY"
+        },
+        {
+          "current_key": "AIzaSyCN6lum3VTAvJqyUsvADyB8HHMAoRtXTf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831777599075-n6q5kocv0ah5v6bmrlcmqn9va3uja0un.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831777599075-a21vbcfkjl9vk7j80qf4b9225knp26ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleDocsClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831777599075:android:7c4bcce0053710270d1256",
+        "android_client_info": {
+          "package_name": "com.example.clothstore_admin_pannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831777599075-b719d65ruo32rbk1vnomgpcvmpdge012.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clothstore_admin_pannel",
+            "certificate_hash": "6ded2c2f6eeed05e79a09be78e0113f6ef877d60"
+          }
+        },
+        {
+          "client_id": "831777599075-q7bdpcdnk4p57tc4vtpt83ihj1o5akd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64zvcOfOD-S8AfznjFm-5tlIhdDvBCrY"
+        },
+        {
+          "current_key": "AIzaSyCN6lum3VTAvJqyUsvADyB8HHMAoRtXTf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831777599075-n6q5kocv0ah5v6bmrlcmqn9va3uja0un.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831777599075-a21vbcfkjl9vk7j80qf4b9225knp26ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleDocsClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
